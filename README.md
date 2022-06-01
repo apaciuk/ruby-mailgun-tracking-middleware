@@ -13,7 +13,5 @@ Module in one file with a MailLogger class, and inserts in to application.rb to 
 * Ruby >= 2.7.1
 * Rails >= 6.0.3.1
 
-Setup required dependencies from `Brewfile`:
-
 
 Place in lib/middleware,  add the additional lines to application.rb
